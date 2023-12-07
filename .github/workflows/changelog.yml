@@ -24,7 +24,7 @@ jobs:
       
 
       - name: Generate changelog
-        run: docker run --rm -v "${{ github.workspace }}:/usr/local/src/your-app" githubchangeloggenerator/github-changelog-generator --user ${{ github.actor }} --project ${{ steps.repo.outputs.project }} --token ${{ secrets.GITHUB_TOKEN }}
+        run: docker run --rm -v "${{ github.workspace }}:/usr/local/src/your-app" githubchangeloggenerator/github-changelog-generator --user ${{ github.actor }} --project ${{ github.repository }} --token ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push changes
         run: |
