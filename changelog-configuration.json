@@ -1,0 +1,10 @@
+{
+  "output": "CHANGELOG.md",
+  "issues": false,
+  "issuesWoLabels": false,
+  "prWoLabels": false,
+  "unreleased": true,
+  "unreleasedLabel": "Next",
+  "dataSource": "prs",
+  "sort": "ASC"
+}
