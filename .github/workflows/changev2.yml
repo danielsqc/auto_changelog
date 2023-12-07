@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generate changelog
-        run: docker run -it --rm -v "${{ github.workspace }}:/usr/local/src/your-app" githubchangeloggenerator/github-changelog-generator --user danielsqc --project auto_changelog --token ${{ secrets.GITHUB_TOKEN }}
+        run: docker run --rm -v "${{ github.workspace }}:/usr/local/src/your-app" githubchangeloggenerator/github-changelog-generator --user danielsqc --project auto_changelog --token ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push changes
         run: |
