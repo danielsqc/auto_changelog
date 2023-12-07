@@ -20,11 +20,11 @@ jobs:
         run: |
           echo "Printing my stuff"
           echo "Actor: ${{ github.actor }}"
-          echo "Project: ${{ steps.repo.outputs.project }}"
+          echo "Project: ${{ github.project }}"
       
 
       - name: Generate changelog
-        run: docker run --rm -v "${{ github.workspace }}:/usr/local/src/your-app" githubchangeloggenerator/github-changelog-generator --user ${{ steps.repo.outputs.owner }} --project ${{ steps.repo.outputs.project }} --token ${{ secrets.GITHUB_TOKEN }}
+        run: docker run --rm -v "${{ github.workspace }}:/usr/local/src/your-app" githubchangeloggenerator/github-changelog-generator --user ${{ github.actor }} --project ${{ steps.repo.outputs.project }} --token ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push changes
         run: |
