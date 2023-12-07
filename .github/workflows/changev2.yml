@@ -1,0 +1,25 @@
+name: Generate Changelog
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-changelog:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Generate changelog
+        run: docker run -it --rm -v "${{ github.workspace }}:/usr/local/src/your-app" githubchangeloggenerator/github-changelog-generator --user danielsqc --project auto_changelog --token ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push changes
+        run: |
+          git add CHANGELOG.md
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Action"
+          git commit -m "Automatically update changelog" -a || exit 0
+          git push

@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- newest [\#18](https://github.com/danielsqc/auto_changelog/pull/18) ([danielsqc](https://github.com/danielsqc))
 - super super [\#17](https://github.com/danielsqc/auto_changelog/pull/17) ([danielsqc](https://github.com/danielsqc))
 - super pr [\#16](https://github.com/danielsqc/auto_changelog/pull/16) ([danielsqc](https://github.com/danielsqc))
 - some [\#15](https://github.com/danielsqc/auto_changelog/pull/15) ([danielsqc](https://github.com/danielsqc))
