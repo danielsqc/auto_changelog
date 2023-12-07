@@ -20,7 +20,7 @@ jobs:
         run: |
           echo "Printing my stuff"
           echo "Actor: ${{ github.actor }}"
-          echo "Project: ${{ github.project }}"
+          echo "Project: ${{ github.repository }}"
       
 
       - name: Generate changelog
