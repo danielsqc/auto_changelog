@@ -2,9 +2,10 @@
   "output": "CHANGELOG.md",
   "issues": false,
   "issuesWoLabels": false,
-  "prWoLabels": false,
+  "prWoLabels": true,
   "unreleased": true,
   "unreleasedLabel": "Next",
   "dataSource": "commits",
-  "sort": "ASC"
+  "sort": "ASC",
+  "includeCommitTitle": true
 }
