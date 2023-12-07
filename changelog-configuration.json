@@ -5,6 +5,6 @@
   "prWoLabels": false,
   "unreleased": true,
   "unreleasedLabel": "Next",
-  "dataSource": "prs",
+  "dataSource": "commits",
   "sort": "ASC"
 }
