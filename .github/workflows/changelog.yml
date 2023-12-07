@@ -19,7 +19,7 @@ jobs:
       - name: Print my stuff
         run: |
           echo "Printing my stuff"
-          echo "Owner: ${{ steps.repo.outputs.owner }}"
+          echo "Actor: ${{ github.actor }}"
           echo "Project: ${{ steps.repo.outputs.project }}"
       
 
