@@ -14,10 +14,10 @@ jobs:
       - name: Generate Changelog
         run: docker run --rm -v "${{ github.workspace }}:/usr/local/src/your-app" githubchangeloggenerator/github-changelog-generator --user ${{ github.actor }} --project ${{ github.event.repository.name }} --token ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and Push Changelog
+      - name: Commit and push changes
         run: |
-          git config --global user.name 'Your Name'
-          git config --global user.email 'Your Email'
           git add CHANGELOG.md
-          git commit -m "Update Changelog"
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Action"
+          git commit -m "Automatically update changelog" -a || exit 0
           git push
