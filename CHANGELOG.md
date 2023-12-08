@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- two [\#30](https://github.com/danielsqc/auto_changelog/pull/30) ([danielsqc](https://github.com/danielsqc))
 - new new repo [\#29](https://github.com/danielsqc/auto_changelog/pull/29) ([danielsqc](https://github.com/danielsqc))
 - new repo [\#28](https://github.com/danielsqc/auto_changelog/pull/28) ([danielsqc](https://github.com/danielsqc))
 - repos [\#27](https://github.com/danielsqc/auto_changelog/pull/27) ([danielsqc](https://github.com/danielsqc))
