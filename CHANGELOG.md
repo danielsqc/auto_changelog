@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/danielsqc/auto_changelog/compare/v0.0.8...HEAD)
 
+**Fixed bugs:**
+
+- tag bug [\#34](https://github.com/danielsqc/auto_changelog/pull/34) ([danielsqc](https://github.com/danielsqc))
+
 **Merged pull requests:**
 
 - removed file [\#33](https://github.com/danielsqc/auto_changelog/pull/33) ([danielsqc](https://github.com/danielsqc))
