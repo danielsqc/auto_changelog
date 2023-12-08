@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/danielsqc/auto_changelog/tree/HEAD)
+## [v0.0.19](https://github.com/danielsqc/auto_changelog/tree/v0.0.19) (2023-12-08)
 
-[Full Changelog](https://github.com/danielsqc/auto_changelog/compare/v0.0.18...HEAD)
+[Full Changelog](https://github.com/danielsqc/auto_changelog/compare/v0.0.18...v0.0.19)
 
 **Implemented enhancements:**
 
