@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/danielsqc/auto_changelog/tree/HEAD)
+
+[Full Changelog](https://github.com/danielsqc/auto_changelog/compare/v0.0.17...HEAD)
+
+**Merged pull requests:**
+
+- test [\#46](https://github.com/danielsqc/auto_changelog/pull/46) ([danielsqc](https://github.com/danielsqc))
+
 ## [v0.0.17](https://github.com/danielsqc/auto_changelog/tree/v0.0.17) (2023-12-08)
 
 [Full Changelog](https://github.com/danielsqc/auto_changelog/compare/v0.0.16...v0.0.17)
