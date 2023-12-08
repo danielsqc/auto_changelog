@@ -1,0 +1,23 @@
+name: Generate Changelog on Release
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  generate-changelog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Changelog
+        run: docker run --rm -v "${{ github.workspace }}:/usr/local/src/your-app" githubchangeloggenerator/github-changelog-generator --user ${{ github.actor }} --project ${{ github.event.repository.name }} --token ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push Changelog
+        run: |
+          git config --global user.name 'Your Name'
+          git config --global user.email 'Your Email'
+          git add CHANGELOG.md
+          git commit -m "Update Changelog"
+          git push
