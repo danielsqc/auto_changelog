@@ -6,6 +6,7 @@
 
 **Fixed bugs:**
 
+- label 2 [\#35](https://github.com/danielsqc/auto_changelog/pull/35) ([danielsqc](https://github.com/danielsqc))
 - tag bug [\#34](https://github.com/danielsqc/auto_changelog/pull/34) ([danielsqc](https://github.com/danielsqc))
 
 **Merged pull requests:**
