@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/danielsqc/auto_changelog/tree/HEAD)
+
+[Full Changelog](https://github.com/danielsqc/auto_changelog/compare/v0.0.19...HEAD)
+
+**Merged pull requests:**
+
+- removed unnecessary files [\#48](https://github.com/danielsqc/auto_changelog/pull/48) ([danielsqc](https://github.com/danielsqc))
+
 ## [v0.0.19](https://github.com/danielsqc/auto_changelog/tree/v0.0.19) (2023-12-08)
 
 [Full Changelog](https://github.com/danielsqc/auto_changelog/compare/v0.0.18...v0.0.19)
