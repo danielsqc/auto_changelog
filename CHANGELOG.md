@@ -2,7 +2,15 @@
 
 ## [Unreleased](https://github.com/danielsqc/auto_changelog/tree/HEAD)
 
-[Full Changelog](https://github.com/danielsqc/auto_changelog/compare/v0.0.15...HEAD)
+[Full Changelog](https://github.com/danielsqc/auto_changelog/compare/v0.0.16...HEAD)
+
+**Fixed bugs:**
+
+- asdf [\#45](https://github.com/danielsqc/auto_changelog/pull/45) ([danielsqc](https://github.com/danielsqc))
+
+## [v0.0.16](https://github.com/danielsqc/auto_changelog/tree/v0.0.16) (2023-12-08)
+
+[Full Changelog](https://github.com/danielsqc/auto_changelog/compare/v0.0.15...v0.0.16)
 
 **Merged pull requests:**
 
