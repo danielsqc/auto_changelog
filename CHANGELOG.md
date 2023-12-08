@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- removed file [\#33](https://github.com/danielsqc/auto_changelog/pull/33) ([danielsqc](https://github.com/danielsqc))
 - disp [\#32](https://github.com/danielsqc/auto_changelog/pull/32) ([danielsqc](https://github.com/danielsqc))
 
 ## [v0.0.8](https://github.com/danielsqc/auto_changelog/tree/v0.0.8) (2023-12-08)
