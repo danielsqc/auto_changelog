@@ -2,7 +2,55 @@
 
 ## [Unreleased](https://github.com/danielsqc/auto_changelog/tree/HEAD)
 
-[Full Changelog](https://github.com/danielsqc/auto_changelog/compare/v0.0.8...HEAD)
+[Full Changelog](https://github.com/danielsqc/auto_changelog/compare/v0.0.14...HEAD)
+
+**Merged pull requests:**
+
+- sadf [\#43](https://github.com/danielsqc/auto_changelog/pull/43) ([danielsqc](https://github.com/danielsqc))
+
+## [v0.0.14](https://github.com/danielsqc/auto_changelog/tree/v0.0.14) (2023-12-08)
+
+[Full Changelog](https://github.com/danielsqc/auto_changelog/compare/v0.0.13...v0.0.14)
+
+**Fixed bugs:**
+
+- s [\#42](https://github.com/danielsqc/auto_changelog/pull/42) ([danielsqc](https://github.com/danielsqc))
+
+## [v0.0.13](https://github.com/danielsqc/auto_changelog/tree/v0.0.13) (2023-12-08)
+
+[Full Changelog](https://github.com/danielsqc/auto_changelog/compare/v0.0.12...v0.0.13)
+
+**Fixed bugs:**
+
+- a [\#41](https://github.com/danielsqc/auto_changelog/pull/41) ([danielsqc](https://github.com/danielsqc))
+
+## [v0.0.12](https://github.com/danielsqc/auto_changelog/tree/v0.0.12) (2023-12-08)
+
+[Full Changelog](https://github.com/danielsqc/auto_changelog/compare/v0.0.11...v0.0.12)
+
+**Fixed bugs:**
+
+- test [\#40](https://github.com/danielsqc/auto_changelog/pull/40) ([danielsqc](https://github.com/danielsqc))
+
+## [v0.0.11](https://github.com/danielsqc/auto_changelog/tree/v0.0.11) (2023-12-08)
+
+[Full Changelog](https://github.com/danielsqc/auto_changelog/compare/v0.0.10...v0.0.11)
+
+**Merged pull requests:**
+
+- some [\#39](https://github.com/danielsqc/auto_changelog/pull/39) ([danielsqc](https://github.com/danielsqc))
+
+## [v0.0.10](https://github.com/danielsqc/auto_changelog/tree/v0.0.10) (2023-12-08)
+
+[Full Changelog](https://github.com/danielsqc/auto_changelog/compare/v0.0.9...v0.0.10)
+
+**Merged pull requests:**
+
+- new [\#38](https://github.com/danielsqc/auto_changelog/pull/38) ([danielsqc](https://github.com/danielsqc))
+
+## [v0.0.9](https://github.com/danielsqc/auto_changelog/tree/v0.0.9) (2023-12-08)
+
+[Full Changelog](https://github.com/danielsqc/auto_changelog/compare/v0.0.8...v0.0.9)
 
 **Implemented enhancements:**
 
@@ -15,6 +63,7 @@
 
 **Merged pull requests:**
 
+- new script [\#37](https://github.com/danielsqc/auto_changelog/pull/37) ([danielsqc](https://github.com/danielsqc))
 - removed file [\#33](https://github.com/danielsqc/auto_changelog/pull/33) ([danielsqc](https://github.com/danielsqc))
 - disp [\#32](https://github.com/danielsqc/auto_changelog/pull/32) ([danielsqc](https://github.com/danielsqc))
 
