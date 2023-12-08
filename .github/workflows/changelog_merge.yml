@@ -1,4 +1,6 @@
-name: Generate Changelog on Merge
+#  https://github.com/github-changelog-generator/github-changelog-generator
+
+name: Generate Changelog
 
 on:
   push:
