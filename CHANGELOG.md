@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/danielsqc/auto_changelog/compare/v0.0.8...HEAD)
 
+**Implemented enhancements:**
+
+- another label [\#36](https://github.com/danielsqc/auto_changelog/pull/36) ([danielsqc](https://github.com/danielsqc))
+
 **Fixed bugs:**
 
 - label 2 [\#35](https://github.com/danielsqc/auto_changelog/pull/35) ([danielsqc](https://github.com/danielsqc))
