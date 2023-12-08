@@ -1,4 +1,4 @@
-name: Generate Changelog
+name: Generate Changelog on Merge
 
 on:
   push:
@@ -15,13 +15,6 @@ jobs:
 
 #      - name: New release
 #        run: something
-
-      - name: Print my stuff
-        run: |
-          echo "Printing my stuff"
-          echo "Actor: ${{ github.actor }}"
-          echo "Project: ${{ github.event.repository.name }}"
-      
 
       - name: Generate changelog
         run: docker run --rm -v "${{ github.workspace }}:/usr/local/src/your-app" githubchangeloggenerator/github-changelog-generator --user ${{ github.actor }} --project ${{ github.event.repository.name }} --token ${{ secrets.GITHUB_TOKEN }}
