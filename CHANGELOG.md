@@ -6,6 +6,14 @@
 
 **Merged pull requests:**
 
+- new new repo [\#29](https://github.com/danielsqc/auto_changelog/pull/29) ([danielsqc](https://github.com/danielsqc))
+- new repo [\#28](https://github.com/danielsqc/auto_changelog/pull/28) ([danielsqc](https://github.com/danielsqc))
+- repos [\#27](https://github.com/danielsqc/auto_changelog/pull/27) ([danielsqc](https://github.com/danielsqc))
+-  project [\#26](https://github.com/danielsqc/auto_changelog/pull/26) ([danielsqc](https://github.com/danielsqc))
+- actor [\#25](https://github.com/danielsqc/auto_changelog/pull/25) ([danielsqc](https://github.com/danielsqc))
+- printing [\#24](https://github.com/danielsqc/auto_changelog/pull/24) ([danielsqc](https://github.com/danielsqc))
+- super old [\#23](https://github.com/danielsqc/auto_changelog/pull/23) ([danielsqc](https://github.com/danielsqc))
+- old [\#22](https://github.com/danielsqc/auto_changelog/pull/22) ([danielsqc](https://github.com/danielsqc))
 - super super super new [\#21](https://github.com/danielsqc/auto_changelog/pull/21) ([danielsqc](https://github.com/danielsqc))
 - new [\#20](https://github.com/danielsqc/auto_changelog/pull/20) ([danielsqc](https://github.com/danielsqc))
 - test [\#19](https://github.com/danielsqc/auto_changelog/pull/19) ([danielsqc](https://github.com/danielsqc))
